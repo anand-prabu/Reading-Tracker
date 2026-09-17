@@ -96,9 +96,3 @@ git push -u origin main
 4. Set `Home.py` as the entry file.
 5. Paste the same secrets into the app Secrets page.
 6. Deploy.
-
-### 10) Recommended next edits
-- Add a recommendation page.
-- Add CSV import/export for users and books.
-- Add master-library similarity scoring.
-- Add book cover images.
